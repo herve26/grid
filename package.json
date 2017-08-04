@@ -1,0 +1,22 @@
+{
+  "name": "cssgrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack":"webpack"
+  },
+  "author": "nzanzu herve",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "rimraf": "^2.6.1",
+    "webpack": "^3.4.1"
+  }
+}
